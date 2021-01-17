@@ -1,0 +1,495 @@
+[2020-11-23 03:21:45 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:46 : INFO] - 
+ 
+[2020-11-23 03:26:46 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 03:26:46 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 03:26:46 : INFO] - WP: 5.5.3 
+[2020-11-23 03:26:46 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 03:26:46 : INFO] - MySQL: 5.5.5 
+[2020-11-23 03:26:46 : INFO] - WPLANG: en_US 
+[2020-11-23 03:26:46 : INFO] - Server: LiteSpeed 
+[2020-11-23 03:26:46 : INFO] - Outbound connections: N 
+[2020-11-23 03:26:46 : INFO] - safe_mode: 0 
+[2020-11-23 03:26:46 : INFO] - max_execution_time: 300 
+[2020-11-23 03:26:46 : INFO] - memory_limit: 512M (used: 7.5M | 8M) 
+[2020-11-23 03:26:46 : INFO] - multisite: N 
+[2020-11-23 03:26:46 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 03:26:46 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-23 03:26:46 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 03:26:46 
+[2020-11-23 03:26:46 : INFO] - Semaphore lock (smush) complete 
+[2020-11-23 03:26:46 : INFO] - Processing task with ID : 268, and type 'smush' 
+[2020-11-23 03:26:46 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:46 : INFO] - 95 
+[2020-11-23 03:26:51 : INFO] - Backing up the original image - 2020/11/nstw-car-exhibit-updraft-pre-smush-original.jpg 
+[2020-11-23 03:26:51 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:51 : INFO] - 95 
+[2020-11-23 03:26:52 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:52 : INFO] - 95 
+[2020-11-23 03:26:55 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:55 : INFO] - 95 
+[2020-11-23 03:26:56 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:56 : INFO] - 95 
+[2020-11-23 03:26:59 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:26:59 : INFO] - 95 
+[2020-11-23 03:27:03 : INFO] - Re_Smush_It_Task with attachment ID : 2828, autocreated on : November 23, 2020 03:21:45 
+[2020-11-23 03:27:03 : INFO] - 95 
+[2020-11-23 03:27:05 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/nstw-car-exhibit.jpg.The file was compressed from 574.84 KB to 554.27 KB saving 3.58 percent using WP-Optimize 
+[2020-11-23 03:27:05 : INFO] - Completed processing task with ID : 268, and type 'smush' 
+[2020-11-23 03:27:05 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-23 03:27:05 : INFO] - Semaphore (smush) unlocked 
+[2020-11-23 03:27:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-23 03:27:05 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-23 03:27:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-23 03:36:52 : INFO] - 
+ 
+[2020-11-23 03:36:52 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 03:36:52 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 03:36:52 : INFO] - WP: 5.5.3 
+[2020-11-23 03:36:52 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 03:36:52 : INFO] - MySQL: 5.5.5 
+[2020-11-23 03:36:52 : INFO] - WPLANG: en_US 
+[2020-11-23 03:36:52 : INFO] - Server: LiteSpeed 
+[2020-11-23 03:36:52 : INFO] - Outbound connections: N 
+[2020-11-23 03:36:52 : INFO] - safe_mode: 0 
+[2020-11-23 03:36:52 : INFO] - max_execution_time: 300 
+[2020-11-23 03:36:52 : INFO] - memory_limit: 512M (used: 7.5M | 8M) 
+[2020-11-23 03:36:52 : INFO] - multisite: N 
+[2020-11-23 03:36:52 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 03:36:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-23 03:55:05 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:14 : INFO] - 
+ 
+[2020-11-23 04:00:14 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 04:00:14 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 04:00:14 : INFO] - WP: 5.5.3 
+[2020-11-23 04:00:14 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 04:00:14 : INFO] - MySQL: 5.5.5 
+[2020-11-23 04:00:14 : INFO] - WPLANG: en_US 
+[2020-11-23 04:00:14 : INFO] - Server: LiteSpeed 
+[2020-11-23 04:00:14 : INFO] - Outbound connections: N 
+[2020-11-23 04:00:14 : INFO] - safe_mode: 0 
+[2020-11-23 04:00:14 : INFO] - max_execution_time: 300 
+[2020-11-23 04:00:14 : INFO] - memory_limit: 512M (used: 7.5M | 8M) 
+[2020-11-23 04:00:14 : INFO] - multisite: N 
+[2020-11-23 04:00:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 04:00:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-23 04:00:14 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 04:00:14 
+[2020-11-23 04:00:14 : INFO] - Semaphore lock (smush) complete 
+[2020-11-23 04:00:14 : INFO] - Processing task with ID : 269, and type 'smush' 
+[2020-11-23 04:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:14 : INFO] - 95 
+[2020-11-23 04:00:18 : INFO] - Backing up the original image - 2020/11/web_binnadang-updraft-pre-smush-original.jpg 
+[2020-11-23 04:00:19 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:19 : INFO] - 95 
+[2020-11-23 04:00:23 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:23 : INFO] - 95 
+[2020-11-23 04:00:29 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:29 : INFO] - 95 
+[2020-11-23 04:00:34 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:34 : INFO] - 95 
+[2020-11-23 04:00:38 : INFO] - Re_Smush_It_Task with attachment ID : 2855, autocreated on : November 23, 2020 03:55:05 
+[2020-11-23 04:00:38 : INFO] - 95 
+[2020-11-23 04:00:43 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_binnadang.jpg.The file was compressed from 868.13 KB to 864.70 KB saving 0.39 percent using WP-Optimize 
+[2020-11-23 04:00:43 : INFO] - Completed processing task with ID : 269, and type 'smush' 
+[2020-11-23 04:00:43 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 04:00:43 
+[2020-11-23 04:00:43 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-23 04:00:43 : INFO] - Semaphore (smush) unlocked 
+[2020-11-23 04:00:43 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-23 04:00:43 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-23 04:00:43 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-23 04:07:26 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:18 : INFO] - 
+ 
+[2020-11-23 04:10:18 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 04:10:18 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 04:10:18 : INFO] - WP: 5.5.3 
+[2020-11-23 04:10:18 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 04:10:18 : INFO] - MySQL: 5.5.5 
+[2020-11-23 04:10:18 : INFO] - WPLANG: en_US 
+[2020-11-23 04:10:18 : INFO] - Server: LiteSpeed 
+[2020-11-23 04:10:18 : INFO] - Outbound connections: N 
+[2020-11-23 04:10:18 : INFO] - safe_mode: 0 
+[2020-11-23 04:10:18 : INFO] - max_execution_time: 300 
+[2020-11-23 04:10:18 : INFO] - memory_limit: 512M (used: 7.5M | 8M) 
+[2020-11-23 04:10:18 : INFO] - multisite: N 
+[2020-11-23 04:10:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 04:10:18 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-23 04:10:18 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 04:10:18 
+[2020-11-23 04:10:18 : INFO] - Semaphore lock (smush) complete 
+[2020-11-23 04:10:18 : INFO] - Processing task with ID : 270, and type 'smush' 
+[2020-11-23 04:10:18 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:18 : INFO] - 95 
+[2020-11-23 04:10:23 : INFO] - Backing up the original image - 2020/11/web_sericulture-1-updraft-pre-smush-original.jpg 
+[2020-11-23 04:10:23 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:23 : INFO] - 95 
+[2020-11-23 04:10:27 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:27 : INFO] - 95 
+[2020-11-23 04:10:32 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:32 : INFO] - 95 
+[2020-11-23 04:10:37 : INFO] - Re_Smush_It_Task with attachment ID : 2860, autocreated on : November 23, 2020 04:07:26 
+[2020-11-23 04:10:37 : INFO] - 95 
+[2020-11-23 04:10:41 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_sericulture-1.jpg.The file was compressed from 879.85 KB to 855.12 KB saving 2.81 percent using WP-Optimize 
+[2020-11-23 04:10:41 : INFO] - Completed processing task with ID : 270, and type 'smush' 
+[2020-11-23 04:10:41 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 04:10:41 
+[2020-11-23 04:10:41 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-23 04:10:41 : INFO] - Semaphore (smush) unlocked 
+[2020-11-23 04:10:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-23 04:10:41 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-23 04:10:41 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-23 04:20:30 : INFO] - 
+ 
+[2020-11-23 04:20:30 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 04:20:30 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 04:20:30 : INFO] - WP: 5.5.3 
+[2020-11-23 04:20:30 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 04:20:30 : INFO] - MySQL: 5.5.5 
+[2020-11-23 04:20:30 : INFO] - WPLANG: en_US 
+[2020-11-23 04:20:30 : INFO] - Server: LiteSpeed 
+[2020-11-23 04:20:30 : INFO] - Outbound connections: N 
+[2020-11-23 04:20:30 : INFO] - safe_mode: 0 
+[2020-11-23 04:20:30 : INFO] - max_execution_time: 300 
+[2020-11-23 04:20:30 : INFO] - memory_limit: 512M (used: 7.6M | 8M) 
+[2020-11-23 04:20:30 : INFO] - multisite: N 
+[2020-11-23 04:20:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 04:20:30 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-23 05:44:19 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:44:25 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:44:30 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:44:33 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:44:37 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:44:42 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:49:29 : INFO] - 
+ 
+[2020-11-23 05:49:29 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 05:49:29 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 05:49:29 : INFO] - WP: 5.5.3 
+[2020-11-23 05:49:29 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 05:49:29 : INFO] - MySQL: 5.5.5 
+[2020-11-23 05:49:29 : INFO] - WPLANG: en_US 
+[2020-11-23 05:49:29 : INFO] - Server: LiteSpeed 
+[2020-11-23 05:49:29 : INFO] - Outbound connections: N 
+[2020-11-23 05:49:29 : INFO] - safe_mode: 0 
+[2020-11-23 05:49:29 : INFO] - max_execution_time: 300 
+[2020-11-23 05:49:29 : INFO] - memory_limit: 512M (used: 7.6M | 8M) 
+[2020-11-23 05:49:29 : INFO] - multisite: N 
+[2020-11-23 05:49:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 05:49:29 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2020-11-23 05:49:29 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:49:29 
+[2020-11-23 05:49:29 : INFO] - Semaphore lock (smush) complete 
+[2020-11-23 05:49:29 : INFO] - Processing task with ID : 271, and type 'smush' 
+[2020-11-23 05:49:29 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:29 : INFO] - 95 
+[2020-11-23 05:49:34 : INFO] - Backing up the original image - 2020/11/web_apayao_infographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:49:34 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:34 : INFO] - 95 
+[2020-11-23 05:49:38 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:38 : INFO] - 95 
+[2020-11-23 05:49:43 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:43 : INFO] - 95 
+[2020-11-23 05:49:48 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:48 : INFO] - 95 
+[2020-11-23 05:49:53 : INFO] - Re_Smush_It_Task with attachment ID : 2921, autocreated on : November 23, 2020 05:44:19 
+[2020-11-23 05:49:53 : INFO] - 95 
+[2020-11-23 05:49:57 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_apayao_infographics.jpg.The file was compressed from 807.47 KB to 807.47 KB saving 0 percent using WP-Optimize 
+[2020-11-23 05:49:57 : INFO] - Completed processing task with ID : 271, and type 'smush' 
+[2020-11-23 05:49:57 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:49:57 
+[2020-11-23 05:49:57 : INFO] - Processing task with ID : 272, and type 'smush' 
+[2020-11-23 05:49:57 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:49:57 : INFO] - 95 
+[2020-11-23 05:50:02 : INFO] - Backing up the original image - 2020/11/web_benguet_infographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:50:02 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:50:02 : INFO] - 95 
+[2020-11-23 05:50:06 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:50:06 : INFO] - 95 
+[2020-11-23 05:50:11 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:50:11 : INFO] - 95 
+[2020-11-23 05:50:15 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:50:15 : INFO] - 95 
+[2020-11-23 05:50:19 : INFO] - Re_Smush_It_Task with attachment ID : 2922, autocreated on : November 23, 2020 05:44:25 
+[2020-11-23 05:50:19 : INFO] - 95 
+[2020-11-23 05:50:23 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_benguet_infographics.jpg.The file was compressed from 818.54 KB to 818.33 KB saving 0.03 percent using WP-Optimize 
+[2020-11-23 05:50:23 : INFO] - Completed processing task with ID : 272, and type 'smush' 
+[2020-11-23 05:50:23 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:50:23 
+[2020-11-23 05:50:23 : INFO] - Processing task with ID : 273, and type 'smush' 
+[2020-11-23 05:50:23 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:23 : INFO] - 95 
+[2020-11-23 05:50:28 : INFO] - Backing up the original image - 2020/11/web_ifugao_infographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:50:28 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:28 : INFO] - 95 
+[2020-11-23 05:50:32 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:32 : INFO] - 95 
+[2020-11-23 05:50:37 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:37 : INFO] - 95 
+[2020-11-23 05:50:41 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:41 : INFO] - 95 
+[2020-11-23 05:50:46 : INFO] - Re_Smush_It_Task with attachment ID : 2923, autocreated on : November 23, 2020 05:44:30 
+[2020-11-23 05:50:46 : INFO] - 95 
+[2020-11-23 05:50:50 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_ifugao_infographics.jpg.The file was compressed from 825.07 KB to 825.07 KB saving 0 percent using WP-Optimize 
+[2020-11-23 05:50:50 : INFO] - Completed processing task with ID : 273, and type 'smush' 
+[2020-11-23 05:50:50 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:50:50 
+[2020-11-23 05:50:50 : INFO] - Processing task with ID : 274, and type 'smush' 
+[2020-11-23 05:50:50 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:50:50 : INFO] - 95 
+[2020-11-23 05:50:55 : INFO] - Backing up the original image - 2020/11/web_kalinga_infographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:50:55 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:50:55 : INFO] - 95 
+[2020-11-23 05:50:59 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:50:59 : INFO] - 95 
+[2020-11-23 05:51:04 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:51:04 : INFO] - 95 
+[2020-11-23 05:51:08 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:51:08 : INFO] - 95 
+[2020-11-23 05:51:13 : INFO] - Re_Smush_It_Task with attachment ID : 2924, autocreated on : November 23, 2020 05:44:33 
+[2020-11-23 05:51:13 : INFO] - 95 
+[2020-11-23 05:51:17 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_kalinga_infographics.jpg.The file was compressed from 809.32 KB to 809.32 KB saving 0 percent using WP-Optimize 
+[2020-11-23 05:51:17 : INFO] - Completed processing task with ID : 274, and type 'smush' 
+[2020-11-23 05:51:17 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:51:17 
+[2020-11-23 05:51:17 : INFO] - Processing task with ID : 275, and type 'smush' 
+[2020-11-23 05:51:17 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:17 : INFO] - 95 
+[2020-11-23 05:51:22 : INFO] - Backing up the original image - 2020/11/web_mp_infographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:51:22 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:22 : INFO] - 95 
+[2020-11-23 05:51:27 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:27 : INFO] - 95 
+[2020-11-23 05:51:32 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:32 : INFO] - 95 
+[2020-11-23 05:51:37 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:37 : INFO] - 95 
+[2020-11-23 05:51:42 : INFO] - Re_Smush_It_Task with attachment ID : 2925, autocreated on : November 23, 2020 05:44:37 
+[2020-11-23 05:51:42 : INFO] - 95 
+[2020-11-23 05:51:45 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_mp_infographics.jpg.The file was compressed from 808.11 KB to 808.11 KB saving 0 percent using WP-Optimize 
+[2020-11-23 05:51:45 : INFO] - Completed processing task with ID : 275, and type 'smush' 
+[2020-11-23 05:51:45 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:51:45 
+[2020-11-23 05:51:45 : INFO] - Processing task with ID : 276, and type 'smush' 
+[2020-11-23 05:51:45 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:51:45 : INFO] - 95 
+[2020-11-23 05:51:50 : INFO] - Backing up the original image - 2020/11/web_abra_nfographics-updraft-pre-smush-original.jpg 
+[2020-11-23 05:51:50 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:51:50 : INFO] - 95 
+[2020-11-23 05:51:55 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:51:55 : INFO] - 95 
+[2020-11-23 05:51:59 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:51:59 : INFO] - 95 
+[2020-11-23 05:52:04 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:52:04 : INFO] - 95 
+[2020-11-23 05:52:09 : INFO] - Re_Smush_It_Task with attachment ID : 2926, autocreated on : November 23, 2020 05:44:42 
+[2020-11-23 05:52:09 : INFO] - 95 
+[2020-11-23 05:52:13 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_abra_nfographics.jpg.The file was compressed from 855.70 KB to 855.11 KB saving 0.07 percent using WP-Optimize 
+[2020-11-23 05:52:13 : INFO] - Completed processing task with ID : 276, and type 'smush' 
+[2020-11-23 05:52:13 : INFO] - Set semaphore last lock (smush) time to 2020-11-23 05:52:13 
+[2020-11-23 05:52:13 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-23 05:52:13 : INFO] - Semaphore (smush) unlocked 
+[2020-11-23 05:52:13 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2020-11-23 05:52:13 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-23 05:52:13 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2020-11-23 05:59:32 : INFO] - 
+ 
+[2020-11-23 05:59:32 : INFO] - Header for logs at time:  Mon, 23 Nov 2020 05:59:32 +0000 on https://nstw.dostcar.ph 
+[2020-11-23 05:59:32 : INFO] - WP: 5.5.3 
+[2020-11-23 05:59:32 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-23 05:59:32 : INFO] - MySQL: 5.5.5 
+[2020-11-23 05:59:32 : INFO] - WPLANG: en_US 
+[2020-11-23 05:59:32 : INFO] - Server: LiteSpeed 
+[2020-11-23 05:59:32 : INFO] - Outbound connections: N 
+[2020-11-23 05:59:32 : INFO] - safe_mode: 0 
+[2020-11-23 05:59:32 : INFO] - max_execution_time: 300 
+[2020-11-23 05:59:32 : INFO] - memory_limit: 512M (used: 7.5M | 8M) 
+[2020-11-23 05:59:32 : INFO] - multisite: N 
+[2020-11-23 05:59:32 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-23 05:59:32 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-24 03:46:39 : INFO] - Re_Smush_It_Task with attachment ID : 3022, autocreated on : November 24, 2020 03:46:39 
+[2020-11-24 03:52:18 : INFO] - 
+ 
+[2020-11-24 03:52:18 : INFO] - Header for logs at time:  Tue, 24 Nov 2020 03:52:18 +0000 on https://nstw.dostcar.ph 
+[2020-11-24 03:52:18 : INFO] - WP: 5.5.3 
+[2020-11-24 03:52:18 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-24 03:52:18 : INFO] - MySQL: 5.5.5 
+[2020-11-24 03:52:18 : INFO] - WPLANG: en_US 
+[2020-11-24 03:52:18 : INFO] - Server: LiteSpeed 
+[2020-11-24 03:52:18 : INFO] - Outbound connections: N 
+[2020-11-24 03:52:18 : INFO] - safe_mode: 0 
+[2020-11-24 03:52:18 : INFO] - max_execution_time: 300 
+[2020-11-24 03:52:18 : INFO] - memory_limit: 512M (used: 8M | 10M) 
+[2020-11-24 03:52:18 : INFO] - multisite: N 
+[2020-11-24 03:52:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-24 03:52:18 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-24 03:52:18 : INFO] - Set semaphore last lock (smush) time to 2020-11-24 03:52:18 
+[2020-11-24 03:52:18 : INFO] - Semaphore lock (smush) complete 
+[2020-11-24 03:52:18 : INFO] - Processing task with ID : 277, and type 'smush' 
+[2020-11-24 03:52:18 : INFO] - Re_Smush_It_Task with attachment ID : 3022, autocreated on : November 24, 2020 03:46:39 
+[2020-11-24 03:52:18 : INFO] - 95 
+[2020-11-24 03:52:22 : INFO] - Backing up the original image - 2020/11/web_rd_nancy-updraft-pre-smush-original.jpg 
+[2020-11-24 03:52:22 : INFO] - Re_Smush_It_Task with attachment ID : 3022, autocreated on : November 24, 2020 03:46:39 
+[2020-11-24 03:52:22 : INFO] - 95 
+[2020-11-24 03:52:24 : INFO] - Re_Smush_It_Task with attachment ID : 3022, autocreated on : November 24, 2020 03:46:39 
+[2020-11-24 03:52:24 : INFO] - 95 
+[2020-11-24 03:52:26 : INFO] - Re_Smush_It_Task with attachment ID : 3022, autocreated on : November 24, 2020 03:46:39 
+[2020-11-24 03:52:26 : INFO] - 95 
+[2020-11-24 03:52:28 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_rd_nancy.jpg.The file was compressed from 165.91 KB to 143.37 KB saving 13.58 percent using WP-Optimize 
+[2020-11-24 03:52:28 : INFO] - Completed processing task with ID : 277, and type 'smush' 
+[2020-11-24 03:52:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-24 03:52:28 : INFO] - Semaphore (smush) unlocked 
+[2020-11-24 03:52:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-24 03:52:28 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-24 03:52:28 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-24 04:02:23 : INFO] - 
+ 
+[2020-11-24 04:02:23 : INFO] - Header for logs at time:  Tue, 24 Nov 2020 04:02:23 +0000 on https://nstw.dostcar.ph 
+[2020-11-24 04:02:23 : INFO] - WP: 5.5.3 
+[2020-11-24 04:02:23 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-24 04:02:23 : INFO] - MySQL: 5.5.5 
+[2020-11-24 04:02:23 : INFO] - WPLANG: en_US 
+[2020-11-24 04:02:23 : INFO] - Server: LiteSpeed 
+[2020-11-24 04:02:23 : INFO] - Outbound connections: N 
+[2020-11-24 04:02:23 : INFO] - safe_mode: 0 
+[2020-11-24 04:02:23 : INFO] - max_execution_time: 300 
+[2020-11-24 04:02:23 : INFO] - memory_limit: 512M (used: 8M | 10M) 
+[2020-11-24 04:02:23 : INFO] - multisite: N 
+[2020-11-24 04:02:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-24 04:02:23 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-26 02:47:15 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:10 : INFO] - 
+ 
+[2020-11-26 02:53:10 : INFO] - Header for logs at time:  Thu, 26 Nov 2020 02:53:10 +0000 on https://nstw.dostcar.ph 
+[2020-11-26 02:53:10 : INFO] - WP: 5.5.3 
+[2020-11-26 02:53:10 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-26 02:53:10 : INFO] - MySQL: 5.5.5 
+[2020-11-26 02:53:10 : INFO] - WPLANG: en_US 
+[2020-11-26 02:53:10 : INFO] - Server: LiteSpeed 
+[2020-11-26 02:53:10 : INFO] - Outbound connections: N 
+[2020-11-26 02:53:10 : INFO] - safe_mode: 0 
+[2020-11-26 02:53:10 : INFO] - max_execution_time: 300 
+[2020-11-26 02:53:10 : INFO] - memory_limit: 512M (used: 7.6M | 8M) 
+[2020-11-26 02:53:10 : INFO] - multisite: N 
+[2020-11-26 02:53:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-26 02:53:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-26 02:53:10 : INFO] - Set semaphore last lock (smush) time to 2020-11-26 02:53:10 
+[2020-11-26 02:53:10 : INFO] - Semaphore lock (smush) complete 
+[2020-11-26 02:53:10 : INFO] - Processing task with ID : 278, and type 'smush' 
+[2020-11-26 02:53:10 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:10 : INFO] - 95 
+[2020-11-26 02:53:14 : INFO] - Backing up the original image - 2020/11/nstw-car-ss-scaled-updraft-pre-smush-original.jpeg 
+[2020-11-26 02:53:14 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:14 : INFO] - 95 
+[2020-11-26 02:53:15 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:15 : INFO] - 95 
+[2020-11-26 02:53:18 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:18 : INFO] - 95 
+[2020-11-26 02:53:19 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:19 : INFO] - 95 
+[2020-11-26 02:53:25 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:25 : INFO] - 95 
+[2020-11-26 02:53:27 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:27 : INFO] - 95 
+[2020-11-26 02:53:31 : INFO] - Re_Smush_It_Task with attachment ID : 3103, autocreated on : November 26, 2020 02:47:15 
+[2020-11-26 02:53:31 : INFO] - 95 
+[2020-11-26 02:53:33 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/nstw-car-ss-scaled.jpeg.The file was compressed from 213.00 KB to 205.72 KB saving 3.42 percent using WP-Optimize 
+[2020-11-26 02:53:33 : INFO] - Completed processing task with ID : 278, and type 'smush' 
+[2020-11-26 02:53:33 : INFO] - Set semaphore last lock (smush) time to 2020-11-26 02:53:33 
+[2020-11-26 02:53:33 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-26 02:53:33 : INFO] - Semaphore (smush) unlocked 
+[2020-11-26 02:53:33 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-26 02:53:33 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-26 02:53:33 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-26 02:56:35 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:18 : INFO] - 
+ 
+[2020-11-26 03:03:18 : INFO] - Header for logs at time:  Thu, 26 Nov 2020 03:03:18 +0000 on https://nstw.dostcar.ph 
+[2020-11-26 03:03:18 : INFO] - WP: 5.5.3 
+[2020-11-26 03:03:18 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-26 03:03:18 : INFO] - MySQL: 5.5.5 
+[2020-11-26 03:03:18 : INFO] - WPLANG: en_US 
+[2020-11-26 03:03:18 : INFO] - Server: LiteSpeed 
+[2020-11-26 03:03:18 : INFO] - Outbound connections: N 
+[2020-11-26 03:03:18 : INFO] - safe_mode: 0 
+[2020-11-26 03:03:18 : INFO] - max_execution_time: 300 
+[2020-11-26 03:03:18 : INFO] - memory_limit: 512M (used: 8M | 10M) 
+[2020-11-26 03:03:18 : INFO] - multisite: N 
+[2020-11-26 03:03:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-26 03:03:18 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-26 03:03:18 : INFO] - Set semaphore last lock (smush) time to 2020-11-26 03:03:18 
+[2020-11-26 03:03:18 : INFO] - Semaphore lock (smush) complete 
+[2020-11-26 03:03:18 : INFO] - Processing task with ID : 279, and type 'smush' 
+[2020-11-26 03:03:18 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:18 : INFO] - 95 
+[2020-11-26 03:03:22 : INFO] - Backing up the original image - 2020/11/nstw-website-ss-updraft-pre-smush-original.jpg 
+[2020-11-26 03:03:22 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:22 : INFO] - 95 
+[2020-11-26 03:03:24 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:24 : INFO] - 95 
+[2020-11-26 03:03:26 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:26 : INFO] - 95 
+[2020-11-26 03:03:28 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:28 : INFO] - 95 
+[2020-11-26 03:03:31 : INFO] - Re_Smush_It_Task with attachment ID : 3105, autocreated on : November 26, 2020 02:56:35 
+[2020-11-26 03:03:31 : INFO] - 95 
+[2020-11-26 03:03:33 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/nstw-website-ss.jpg.The file was compressed from 342.55 KB to 179.77 KB saving 47.52 percent using WP-Optimize 
+[2020-11-26 03:03:33 : INFO] - Completed processing task with ID : 279, and type 'smush' 
+[2020-11-26 03:03:33 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-26 03:03:33 : INFO] - Semaphore (smush) unlocked 
+[2020-11-26 03:03:33 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-26 03:03:33 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-26 03:03:33 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-26 03:15:08 : INFO] - 
+ 
+[2020-11-26 03:15:08 : INFO] - Header for logs at time:  Thu, 26 Nov 2020 03:15:08 +0000 on https://nstw.dostcar.ph 
+[2020-11-26 03:15:08 : INFO] - WP: 5.5.3 
+[2020-11-26 03:15:08 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-26 03:15:08 : INFO] - MySQL: 5.5.5 
+[2020-11-26 03:15:08 : INFO] - WPLANG: en_US 
+[2020-11-26 03:15:08 : INFO] - Server: LiteSpeed 
+[2020-11-26 03:15:08 : INFO] - Outbound connections: N 
+[2020-11-26 03:15:08 : INFO] - safe_mode: 0 
+[2020-11-26 03:15:08 : INFO] - max_execution_time: 300 
+[2020-11-26 03:15:08 : INFO] - memory_limit: 512M (used: 8M | 10M) 
+[2020-11-26 03:15:08 : INFO] - multisite: N 
+[2020-11-26 03:15:08 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-26 03:15:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-27 02:22:19 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:24 : INFO] - 
+ 
+[2020-11-27 02:27:24 : INFO] - Header for logs at time:  Fri, 27 Nov 2020 02:27:24 +0000 on https://nstw.dostcar.ph 
+[2020-11-27 02:27:24 : INFO] - WP: 5.5.3 
+[2020-11-27 02:27:24 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-27 02:27:24 : INFO] - MySQL: 5.5.5 
+[2020-11-27 02:27:24 : INFO] - WPLANG: en_US 
+[2020-11-27 02:27:24 : INFO] - Server: LiteSpeed 
+[2020-11-27 02:27:24 : INFO] - Outbound connections: N 
+[2020-11-27 02:27:24 : INFO] - safe_mode: 0 
+[2020-11-27 02:27:24 : INFO] - max_execution_time: 300 
+[2020-11-27 02:27:24 : INFO] - memory_limit: 512M (used: 7.6M | 8M) 
+[2020-11-27 02:27:24 : INFO] - multisite: N 
+[2020-11-27 02:27:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-27 02:27:24 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-27 02:27:24 : INFO] - Set semaphore last lock (smush) time to 2020-11-27 02:27:24 
+[2020-11-27 02:27:24 : INFO] - Semaphore lock (smush) complete 
+[2020-11-27 02:27:24 : INFO] - Processing task with ID : 280, and type 'smush' 
+[2020-11-27 02:27:24 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:24 : INFO] - 95 
+[2020-11-27 02:27:29 : INFO] - Backing up the original image - 2020/11/web_sericulture2-updraft-pre-smush-original.jpg 
+[2020-11-27 02:27:29 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:29 : INFO] - 95 
+[2020-11-27 02:27:33 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:33 : INFO] - 95 
+[2020-11-27 02:27:38 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:38 : INFO] - 95 
+[2020-11-27 02:27:43 : INFO] - Re_Smush_It_Task with attachment ID : 3106, autocreated on : November 27, 2020 02:22:19 
+[2020-11-27 02:27:43 : INFO] - 95 
+[2020-11-27 02:27:48 : INFO] - Successfully optimized the image - /home/u307457965/domains/nstw.dostcar.ph/public_html/wp-content/uploads/2020/11/web_sericulture2.jpg.The file was compressed from 883.17 KB to 857.98 KB saving 2.85 percent using WP-Optimize 
+[2020-11-27 02:27:48 : INFO] - Completed processing task with ID : 280, and type 'smush' 
+[2020-11-27 02:27:48 : INFO] - Set semaphore last lock (smush) time to 2020-11-27 02:27:48 
+[2020-11-27 02:27:48 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-27 02:27:48 : INFO] - Semaphore (smush) unlocked 
+[2020-11-27 02:27:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-27 02:27:48 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-27 02:27:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-27 02:37:37 : INFO] - 
+ 
+[2020-11-27 02:37:37 : INFO] - Header for logs at time:  Fri, 27 Nov 2020 02:37:37 +0000 on https://nstw.dostcar.ph 
+[2020-11-27 02:37:37 : INFO] - WP: 5.5.3 
+[2020-11-27 02:37:37 : INFO] - PHP: 7.4.11 (litespeed, Linux sg-nme-web300.main-hosting.eu 3.10.0-962.3.2.lve1.5.33.el7.x86_64 #1 SMP Fri Mar 13 09:20:40 EDT 2020 x86_64) 
+[2020-11-27 02:37:37 : INFO] - MySQL: 5.5.5 
+[2020-11-27 02:37:37 : INFO] - WPLANG: en_US 
+[2020-11-27 02:37:37 : INFO] - Server: LiteSpeed 
+[2020-11-27 02:37:37 : INFO] - Outbound connections: N 
+[2020-11-27 02:37:37 : INFO] - safe_mode: 0 
+[2020-11-27 02:37:37 : INFO] - max_execution_time: 300 
+[2020-11-27 02:37:37 : INFO] - memory_limit: 512M (used: 7.5M | 10M) 
+[2020-11-27 02:37:37 : INFO] - multisite: N 
+[2020-11-27 02:37:37 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-11-27 02:37:37 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
